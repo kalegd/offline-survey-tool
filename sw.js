@@ -1,12 +1,12 @@
 const CACHE_NAME = 'offline-survey-tool-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/styles/main.css',
-  '/scripts/app.js',
-  '/manifest.json',
-  '/images/icon_192.png',
-  '/images/icon_512.png'
+  './',
+  './index.html',
+  './styles/main.css',
+  './scripts/app.js',
+  './manifest.json',
+  './images/icon_192.png',
+  './images/icon_512.png'
 ];
 
 // Install event - cache resources

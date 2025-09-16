@@ -2,7 +2,7 @@
   "name": "Offline Survey Tool",
   "short_name": "Survey Tool",
   "description": "Create and conduct surveys offline",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b82f6",
