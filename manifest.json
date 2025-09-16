@@ -1,0 +1,21 @@
+{
+  "name": "Offline Survey Tool",
+  "short_name": "Survey Tool",
+  "description": "Create and conduct surveys offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "./images/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

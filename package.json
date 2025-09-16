@@ -1,0 +1,20 @@
+{
+  "name": "offline-surver-tool",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwindcss -i ./styles/input.css -o ./styles/main.css --minify",
+    "watch:css": "tailwindcss -i ./styles/input.css -o ./styles/main.css --watch"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
